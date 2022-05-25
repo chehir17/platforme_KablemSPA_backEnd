@@ -1,0 +1,52 @@
+1- en phase de modif d'un utilisateur , pas possiblité de modifier "matricule / nature/ département"  ==>OK accepter à l'état
+2- liste des articles non insérés==> à terminer par moi :OK
+4- bouton "FERMER" ne marche pas ==> OK accepter à l'état
+7- notification ne fonctionne pas après avoir créer un exemple mais pas fonctionnel ==> OK
+12-dans DMPP : champs avant et après limité en caractère ==> OK
+5- RapportNC essai a été crée dans base de données mais pas affiché dans l'application : objectif passer à un PA à partir d'une FNC==> OK
+8-dans le champ recherche mettre filtre personnalisé dans "utilisateurs" et " article" ==> OK
+3- Dans PHP département et id_département est OK mais affichage dans application toujours KO.==> OK
+12- inutile d'entrer origine dans plan d'action tant déjà tu es dans DMPP ==> OK
+13-dans suivi client : il t'oblige de mettre le  N° De Réclamation Au Fournisseur : c'est pas obligatoire ==> OK
+10-Mode de gestion les nouvelles dates des actions en retard ==> OK
+15-contrôle efficacité action require que suite rapport NC ==>OK
+14-dans plan d'action: ajout champs documents utilisés ( fichier à ajoutés ) ==> OK
+03-Suivi incident client ne permet pas de'ouvrir un plan d'action  OK
+05- Lors de l'ouverture d'un plan d'action le %progress prend 0 ald 25 automatiquement et prend Open ( correct ) OK
+06-Dashboard à MAJ en 2022 : comment: copier toute la base puis 
+exportation des tables concernés puis selection Serveur : 127.0.0.1 Base de données : kablem_test puis vider les tables concernés
+12- lors de suppression de DMPP , ses lignes de plan d'action ne s'efface pas avec elle ==> OK
+la nouvelle colonne " note" dans plan d'action n'est pas visible dans l'application  OK
+6-courbe ppm : ==> correction formule :Ok  
+01-Affichage ppm zone P3 et "null" ne fonctionne pas :OK
+05-histogramme circulaire math.round OK
+les petites tables comme origine , statut ,... leurs emplacements où?   OK
+comment ajouter une petite liste ?  OK
+ajout ligne dans registre de scrap OK
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+07-importation MAJ plan d'action !!???
+08- on a ajoutée champ " note" pour gestion les dates en retard d'une action , ce champ n'est pas visible lors de modification d'une action et de préférence 
+il sera visible lors de l'appui sur le bouton "étoile" du progress , de plus point bloquant : comment gérer dans la réunion les MAJ des actions en retard ?
+comment les filtrer ? peut on mettre dans le filtre personnalisé des conditions ?
+06-modification progess d'une action dans DMPP seule pas toute modification du plan d'action ==> à essayer de résoudre exple fait par user "Nidhal"
+06-la restriction high level ne marche pas suite essai fait
+07-filtre dans Liste Des Suivi Des Super-Contrôles "Date De Début" KO
+
+11- chargement image impossible dans suivi incidents clients pour les anciens importations ==> à essayer de résoudre
+10- vue relationnelle pas importé sur toute ma version 
+04-pour envoyer les mots de passe des compte: à remplacer l'adresse mail de Rami par "guerfalimedhakim@gmail.com" :à résoudre
+
+05-courbe "INCIDENTS FOURNISSEURS " par mois : nombre de classification par mois .
+06-courbe PPM Fournisseur Kab-LEM SPA selon "P1-Kab-Lem SPA"
+
+Notification : par département pas fonctionnelle !!
+Notification action en retard pas fonctionnelle !!
+Dashboard : votre performance : exple user "Nidhal" action en retard pourtant date de cloiture est 04/08/2021 !!!!
+Dashboard : affichage objectif dans la courbe de chaque graphe
+Dashboard : correlation entre le graphe "total statut des actions par département " et "Action En Retard Par Departement"  , exple cas de "Production"
+ 	
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+

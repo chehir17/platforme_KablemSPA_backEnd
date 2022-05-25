@@ -1,0 +1,14 @@
+ouvrir Xampp  
+start Apache
+start MySQL ( ne pas fermer Xampp )
+cmd 
+
+cd C:\Users\hp\Desktop\Purple-React-master\Purple-React-master\template\demo_1 chemin
+npm run start
+
+
+attente
+
+
+si chrome ne s'est pas ouvert automatiquement , mettre dans l'URL:
+http://localhost:3000
